@@ -5,3 +5,12 @@
 .italic {
     font-style: italic;
 }
+
+.introbox {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin: 20px;
+    border: 10px solid black;
+    background-color: gray;
+}
