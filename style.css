@@ -7,11 +7,11 @@
 }
 
 .tbox {
-    height: 50;
-    width: 150;
-    padding: 10;
-    margin: 20;
-    border: 10 solid rgb(70, 41, 19);
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    margin: 20px;
+    border: 10px solid rgb(70, 41, 19);
     background-color: rgb(179,94,42);
 }
 
