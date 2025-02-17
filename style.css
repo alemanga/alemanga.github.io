@@ -2,6 +2,10 @@
     font-family: 'Trebuchet MS';
 }
 
+title {
+    text-underline-position: below;
+}
+
 .italic {
     font-style: italic;
 }
@@ -11,12 +15,8 @@
     width: 600px;
     padding: 10px;
     margin: 20px;
-    border: 10px solid black;
-    background-color: rgb(156, 113, 60);
-}
-
-.img {
-    border: 10xp solid black;
+    border: 10px solid rgb(70, 41, 19);
+    background-color: rgb(179, 94, 42);
 }
 
 body {
