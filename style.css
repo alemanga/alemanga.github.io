@@ -12,9 +12,13 @@
     padding: 10px;
     margin: 20px;
     border: 10px solid black;
-    background-color: gray;
+    background-color: rgb(156, 113, 60);
+}
+
+.img {
+    border: 10xp solid black;
 }
 
 body {
-    background-color: gold;
+    background-color: rgb(243, 195, 73);
 }
