@@ -7,9 +7,8 @@
     width: 50%;
     height: auto;
     padding: 10px;
-    margin: 20px;  
-    background-color: #9c0f3e;
-    border-color: #9c0f3e;
+    border-color: 2px #9c0f3e;
+    margin: 20px;
 }
 
 body {
