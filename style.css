@@ -1,5 +1,5 @@
 .heroHead {
-    display: inline;
+    display: block;
     position: relative;
     left: 200px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -8,6 +8,8 @@
     line-height: 110%;
     text-align: left;
     color: white;
+    padding: 10px;
+    margin: 20px;
 }
 
 .webcomicDiv {
@@ -29,7 +31,7 @@
 }
 
 .webcomicHead {
-    display: inline;
+    display: block;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
     font-size: 25px;
@@ -39,7 +41,7 @@
 }
 
 .webcomicBodytext {
-    display: inline;
+    display: block;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     line-height: 170%;
