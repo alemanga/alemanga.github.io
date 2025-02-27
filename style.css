@@ -1,7 +1,7 @@
 .heroHead {
     display: block;
     position: relative;
-    left: 200px;
+    left: 100px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
     font-size: 25px;
@@ -55,9 +55,7 @@
 
 
 .introDiv {
-    border: 5px outset #6A1E4D;
     background-color: #6A1E4D;
-    text-align: center;
 }
 
 .introHead {
@@ -78,6 +76,22 @@
     font-size: 16px;
     line-height: 170%;
     text-align: left;
+    color: white;
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    margin: 20px;
+}
+
+.gamesDiv {
+    background-color: #9c0f3e;
+}
+
+.gamesHead {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 88px;
+    line-height: 110%;
+    text-align: center;
     color: white;
     width: 50%;
     height: auto;
