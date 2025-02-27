@@ -7,11 +7,11 @@
     width: 50%;
     height: auto;
     padding: 10px;
-    margin: 20px;
+    margin: 20px;  
     background-color: #9c0f3e;
+    border-color: #9c0f3e;
 }
 
 body {
-    text-align: center;
     background-color: #1D0B3A;
 }
