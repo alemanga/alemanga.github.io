@@ -98,6 +98,8 @@
 
 .gamesHead {
     display: block;
+    position: absolute;
+    align-self: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 76px;
     line-height: 110%;
