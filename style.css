@@ -6,6 +6,12 @@
     height: 200px;
 }
 
+.blarneyIMG {
+    display: inline;
+    width: 150px;
+    height: 150px;
+}
+
 .webcomicHead {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
