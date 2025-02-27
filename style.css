@@ -15,8 +15,6 @@
 
 .webcomicDiv {
     position: absolute;
-    top: 150px;
-    left: 15%;
     border: 5px outset #C05324;
     background: rgb(192,83,36);
     background: linear-gradient(0deg, rgba(192,83,36,1) 0%, rgba(161,17,20,1) 100%);
@@ -79,8 +77,6 @@
 
 .introBodytext {
     display: inline;
-    position: absolute;
-    left: 20%;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     line-height: 170%;
@@ -98,8 +94,6 @@
 
 .gamesHead {
     display: block;
-    position: absolute;
-    align-self: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 76px;
     line-height: 110%;
