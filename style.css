@@ -1,29 +1,12 @@
-* {
-    font-family: 'Trebuchet MS';
+@font-face {
+    font-family: 'Fira Code';
+    src: url(C:\Users\12695\GitHub-Repositories\alemanga.github.io\Fira_Code.zip);
 }
 
-.italic {
-    font-style: italic;
-}
-
-.tbox {
-    height: 50px;
-    width: 150px;
-    padding: 10px;
-    margin: 20px;
-    border: 10px solid rgb(70, 41, 19);
-    background-color: rgb(179,94,42);
-}
-
-.pbox {
-    height: 120px;
-    width: 600px;
-    padding: 10px;
-    margin: 20px;
-    border: 10px solid rgb(70, 41, 19);
-    background-color: rgb(179, 94, 42);
+.bodytext {
+    font-family: 'Fira Code';
 }
 
 body {
-    background-color: rgb(243, 195, 73);
+    background-color: #1D0B3A;
 }
