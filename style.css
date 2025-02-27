@@ -14,7 +14,8 @@
 
 .webcomicDiv {
     border: 5px outset #C05324;
-    background-color: #C05324;
+    background: rgb(192,83,36);
+    background: linear-gradient(0deg, rgba(192,83,36,1) 0%, rgba(161,17,20,1) 100%);
     text-align: center;
     width: 40%;
     height: 200px;
@@ -55,7 +56,8 @@
 
 
 .introDiv {
-    background-color: #6A1E4D;
+    background: rgb(106,30,77);
+    background: linear-gradient(0deg, rgba(106,30,77,1) 0%, rgba(29,11,58,1) 100%);
 }
 
 .introHead {
