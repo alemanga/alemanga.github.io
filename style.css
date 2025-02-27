@@ -1,12 +1,20 @@
-.introDiv {
-    border: 5px outset #6A1E4D;
-    background-color: #6A1E4D;
-    text-align: center;
-}
-
 .webcomicDiv {
     border: 5px outset #C05324;
     background-color: #C05324;
+    text-align: center;
+}
+
+.webcomicHead {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+    line-height: 110%;
+    color: white;
+}
+
+.introDiv {
+    border: 5px outset #6A1E4D;
+    background-color: #6A1E4D;
     text-align: center;
 }
 
@@ -18,7 +26,7 @@
     color: white;
 }
 
-.introBodyText {
+.introBodytext {
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     line-height: 170%;
