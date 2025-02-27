@@ -8,6 +8,7 @@
 
 .blarneyIMG {
     display: inline;
+    position: relative;
     float: left;
     width: 150px;
     height: 150px;
