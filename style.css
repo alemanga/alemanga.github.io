@@ -12,6 +12,8 @@
     float: left;
     width: 150px;
     height: 150px;
+    padding: 10px;
+    margin: 20px;
 }
 
 .webcomicHead {
@@ -21,10 +23,6 @@
     line-height: 110%;
     text-align: left;
     color: white;
-    width: auto;
-    height: auto;
-    padding: 10px;
-    margin: 20px;
 }
 
 .introDiv {
@@ -47,7 +45,7 @@
     line-height: 170%;
     text-align: left;
     color: white;
-    width: auto;
+    width: 50%;
     height: auto;
     padding: 10px;
     margin: 20px;
