@@ -1,10 +1,6 @@
-@font-face {
-    font-family: firaCode;
-    src: url(C:\Users\12695\GitHub-Repositories\alemanga.github.io\Fira_Code.zip);
-}
-
 .bodytext {
-    font-family: firaCode;
+    font-family: 'Courier New';
+    color: white
 }
 
 body {
