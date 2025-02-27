@@ -26,6 +26,20 @@
     color: white;
 }
 
+.webcomicBodytext {
+    display: inline;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 170%;
+    text-align: left;
+    color: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: 20px;
+}
+
+
 .introDiv {
     border: 5px outset #6A1E4D;
     background-color: #6A1E4D;
@@ -38,6 +52,10 @@
     line-height: 110%;
     text-align: center;
     color: white;
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    margin: 20px;
 }
 
 .introBodytext {
@@ -47,7 +65,7 @@
     line-height: 170%;
     text-align: left;
     color: white;
-    width: 100%;
+    width: 50%;
     height: auto;
     padding: 10px;
     margin: 20px;
