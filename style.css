@@ -2,7 +2,8 @@
     border: 5px outset #C05324;
     background-color: #C05324;
     text-align: center;
-    width: 635px;
+    width: 1200px;
+    height: 200px;
 }
 
 .webcomicHead {
@@ -10,7 +11,7 @@
     text-transform: uppercase;
     font-size: 25px;
     line-height: 110%;
-    text-align: center;
+    text-align: left;
     color: white;
 }
 
