@@ -1,9 +1,13 @@
 .bodytext {
     font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
     line-height: 170%;
-    margin: 20px, 20px, 20px, 20px;
     text-align: center;
-    color: white
+    color: white;
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    margin: 20px;
 }
 
 body {
