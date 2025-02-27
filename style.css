@@ -1,5 +1,8 @@
 .bodytext {
     font-family: 'Courier New', Courier, monospace;
+    line-height: 170%;
+    margin: 20px, 20px, 20px, 20px;
+    text-align: center;
     color: white
 }
 
