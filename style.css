@@ -1,3 +1,9 @@
+.introDiv {
+    border: 5px outset #6A1E4D;
+    background-color: #6A1E4D;
+    text-align: center;
+}
+
 .bodytext {
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
@@ -7,7 +13,6 @@
     width: 50%;
     height: auto;
     padding: 10px;
-    border-color: 2px solid #9c0f3e;
     margin: 20px;
 }
 
