@@ -5,6 +5,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
     font-size: 25px;
+    font-style: italic;
     line-height: 110%;
     text-align: left;
     color: white;
@@ -14,8 +15,8 @@
 
 .webcomicDiv {
     position: absolute;
-    top: 150px;
-    left: 20%;
+    top: 75%;
+    left: 25%;
     border: 5px outset #C05324;
     background: rgb(192,83,36);
     background: linear-gradient(0deg, rgba(192,83,36,1) 0%, rgba(161,17,20,1) 100%);
