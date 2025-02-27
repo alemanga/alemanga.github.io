@@ -1,12 +1,11 @@
 .introDiv {
     border: 5px outset #6A1E4D;
     background-color: #6A1E4D;
-    background-image: linear-gradient(#1D0B3A, #6a1e4d);
     text-align: center;
 }
 
 .introHead {
-    font-family: Impact;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 88px;
     line-height: 110%;
     text-align: center;
