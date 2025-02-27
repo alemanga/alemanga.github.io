@@ -2,6 +2,7 @@
     border: 5px outset #C05324;
     background-color: #C05324;
     text-align: center;
+    width: 635px;
 }
 
 .webcomicHead {
@@ -9,6 +10,7 @@
     text-transform: uppercase;
     font-size: 25px;
     line-height: 110%;
+    text-align: center;
     color: white;
 }
 
@@ -30,7 +32,7 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     line-height: 170%;
-    text-align: center;
+    text-align: left;
     color: white;
     width: 50%;
     height: auto;
