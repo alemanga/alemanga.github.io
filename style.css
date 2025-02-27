@@ -21,6 +21,10 @@
     line-height: 110%;
     text-align: left;
     color: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: 20px;
 }
 
 .introDiv {
@@ -43,7 +47,7 @@
     line-height: 170%;
     text-align: left;
     color: white;
-    width: 50%;
+    width: auto;
     height: auto;
     padding: 10px;
     margin: 20px;
