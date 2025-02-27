@@ -16,7 +16,7 @@
     border: 5px outset #C05324;
     background-color: #C05324;
     text-align: center;
-    width: 1200px;
+    width: 40%;
     height: 200px;
 }
 
@@ -60,7 +60,7 @@
 
 .introHead {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 88px;
+    font-size: 76px;
     line-height: 110%;
     text-align: center;
     color: white;
@@ -89,7 +89,7 @@
 
 .gamesHead {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 88px;
+    font-size: 76px;
     line-height: 110%;
     text-align: center;
     color: white;
