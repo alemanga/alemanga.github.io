@@ -2,6 +2,11 @@
     text-align: center;
 }
 
+@font-face {
+    font-family: 'Jacquard24';
+    src: url(Jacquard24-Regular.woff2);
+}
+
 div.headerbox {
     background-color: rgb(29,11,58);
     position: sticky;
@@ -60,7 +65,7 @@ div.introtextbox {
 }
 
 .introheader {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Jacquard24';
     font-size: 50px;
     line-height: 110%;
     height: 60px;
@@ -194,7 +199,7 @@ div.gamesbox {
 }
 
 .gamesheader {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Jacquard24';
     font-size: 50px;
     line-height: 110%;
     height: 60px;
@@ -257,7 +262,7 @@ div.favgamestext {
 }
 
 .favgamesheader {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Jacquard24';
     font-size: 50px;
     line-height: 110%;
     height: 60px;
