@@ -38,7 +38,7 @@ div.introtextbox {
 .introheader {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px;
-    line-height: 170%;
+    line-height: 110%;
     height: 97px;
     width: 506px;
     margin: 20px 0px;
@@ -48,7 +48,7 @@ div.introtextbox {
 .introbody {
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
-    line-height: 110%;
+    line-height: 170%;
     text-align: left;
     height: 135px;
     width: 500px;
@@ -86,7 +86,7 @@ div.webcomicimg {
 div.webcomictextbox {
     height: 95px;
     width: 405px;
-    margin: 15px 45px 15px 15px;
+    margin: 15px 45px 15px 0px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -100,6 +100,24 @@ div.webcomictextbox {
     text-transform: uppercase;
     height: 30px;
     width: 405px;
+    margin: 10px, 0px;
+    color: white;
+}
+
+div.webcomicinfo {
+    height: 55px;
+    width: 450px;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.webcomicbody {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 170%;
+    text-align: left;
+    height: 135px;
+    width: 500px;
     color: white;
 }
 
