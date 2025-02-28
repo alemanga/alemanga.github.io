@@ -105,10 +105,12 @@ div.webcomictextbox {
 }
 
 div.webcomicinfo {
-    height: 55px;
+    height: 75px;
     width: 450px;
     display: grid;
     grid-auto-flow: column;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .webcomicbody {
@@ -118,8 +120,12 @@ div.webcomicinfo {
     text-align: left;
     height: 75px;
     width: 270px;
-    margin: 5px 0px 0px 0px;
+    margin: 5px 10px 0px 0px;
     overflow: auto;
+    color: white;
+}
+
+div.webtoonimg {
     color: white;
 }
 
@@ -128,7 +134,11 @@ div.webcomicinfo {
     border: none;
     color: white;
     padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
+    height: 38px;
+    width: 108px;
+    margin: 0px 0px 0px 10px;
     transition-duration: 0.4s;
     cursor: pointer;
 }
@@ -140,8 +150,7 @@ div.webcomicinfo {
 
 .webtoonbutton:hover {
     background-color: white; 
-    color: black; 
-    border: 2px solid rgb(29,11,58);
+    color: rgb(29,11,58); 
 }
 
 div.gameslice {
