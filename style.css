@@ -23,6 +23,14 @@ div.introbox {
     display: flex;
 }
 
+div.webcomicbox {
+    background: rgb(161,17,19);
+    background: linear-gradient(180deg, rgba(161,17,19,1) 0%, rgba(171,68,24,1) 100%);
+    height: 145px;
+    width: 635px;
+    padding: 0px 0px 0px 160px;
+}
+
 div.gameslice {
     background-image: url(GameOpinionsBG.png);
     height: 242px;
