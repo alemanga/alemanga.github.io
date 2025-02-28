@@ -1,8 +1,14 @@
+* {
+    text-align: center;
+}
+
 div.headerbox {
     background-color: rgb(29,11,58);
     height: 150px;
     width: 1440px;
     margin: auto;
+    display: grid;
+    flex-direction: column;
 }
 
 div.introbox {
@@ -11,4 +17,14 @@ div.introbox {
     height: 675px;
     width: 1440px;
     margin: auto;
+    display: flex;
+}
+
+div.gamesbox {
+    background-color: rgb(156,15,62);
+    height: 175px;
+    width: 1440px;
+    margin: auto;
+    display: grid;
+    flex-direction: column;
 }
