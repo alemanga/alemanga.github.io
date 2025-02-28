@@ -17,6 +17,7 @@ div.introtextbox {
     height: 375px;
     width: 640px;
     margin-left: 167px;
+    margin-top: 10px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -36,10 +37,11 @@ div.introtextbox {
 
 .introheader {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 40px;
+    font-size: 50px;
     line-height: 170%;
     height: 97px;
     width: 506px;
+    margin: 20px 0px;
     color: white;
 }
 
@@ -49,7 +51,9 @@ div.introtextbox {
     line-height: 110%;
     text-align: left;
     height: 135px;
-    width: 540px;
+    width: 500px;
+    margin-left: 140px;
+    margin-top: 0px;
     color: white;
 }
 
@@ -77,7 +81,7 @@ div.gameslice {
     background-image: url(GameOpinionsBG.png);
     height: 242px;
     width: 1440px;
-    margin-top: 58px;
+    margin-top: 48px;
 }
 
 div.gamesbox {
