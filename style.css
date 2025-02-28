@@ -75,6 +75,8 @@ div.webcomicbox {
     height: 145px;
     width: 635px;
     margin-left: 160px;
+    display: grid;
+    grid-auto-flow: column;
 }
 
 div.gameslice {
