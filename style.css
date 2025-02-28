@@ -321,14 +321,17 @@ div.footerbox {
     margin: auto;
     display: grid;
     grid-auto-flow: column;
+    justify-content: start;
+    align-items: center;
 }
 
 div.footerheader {
     height: 30px;
     width: 250px;
-    margin: auto;
+    margin: 0px 0px 0px 100px;
     display: grid;
     grid-auto-flow: column;
+    align-items: center;
 }
 
 .footertext {
