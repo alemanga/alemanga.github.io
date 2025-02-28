@@ -72,7 +72,7 @@ div.introbox {
 div.webcomicbox {
     background: rgb(161,17,19);
     background: linear-gradient(180deg, rgba(161,17,19,1) 0%, rgba(171,68,24,1) 100%);
-    height: 145px;
+    height: 150px;
     width: 635px;
     margin-left: 160px;
     display: grid;
