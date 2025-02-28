@@ -39,7 +39,7 @@ div.introtextbox {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px;
     line-height: 110%;
-    height: 97px;
+    height: 60px;
     width: 506px;
     margin: 20px 0px;
     color: white;
@@ -100,7 +100,7 @@ div.webcomictextbox {
     text-transform: uppercase;
     height: 30px;
     width: 405px;
-    margin: 10px, 0px;
+    margin: 10px 0px 0px 0px;
     color: white;
 }
 
@@ -116,8 +116,9 @@ div.webcomicinfo {
     font-size: 16px;
     line-height: 170%;
     text-align: left;
-    height: 135px;
-    width: 500px;
+    height: 55px;
+    width: 270px;
+    overflow: auto;
     color: white;
 }
 
