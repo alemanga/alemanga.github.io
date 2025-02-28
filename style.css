@@ -5,6 +5,7 @@
 div.headerbox {
     background-color: rgb(29,11,58);
     position: sticky;
+    top: 0;
     height: 150px;
     width: 1440px;
     margin: auto;
@@ -22,14 +23,17 @@ div.introbox {
     display: flex;
 }
 
+div.gameslice {
+    background-image: url(GameOpinionsBG.png);
+    height: 242px;
+    width: 1440px;
+}
+
 div.gamesbox {
     background-color: rgb(156,15,62);
     /* background-image: url(GameOpinionsBG.png); */
     height: 575px;
     width: 1440px;
-    margin: auto;
-    display: grid;
-    flex-direction: column;
 }
 
 div.favgamesbox {
