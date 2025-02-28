@@ -276,7 +276,7 @@ div.favgamesimgs {
     height: 100%;
 }
 
-.favgamestext {
+.text {
     white-space: nowrap; 
     color: white;
     font-size: 20px;
