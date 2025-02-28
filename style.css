@@ -20,6 +20,8 @@ div.headerbox {
     line-height: 110%;
     text-align: left;
     text-transform: uppercase;
+    height: 56px;
+    width: 600px;
     color: white;
 }
 
@@ -31,6 +33,8 @@ div.introbox {
     width: 1440px;
     margin: auto;
     display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
 div.webcomicbox {
@@ -38,14 +42,14 @@ div.webcomicbox {
     background: linear-gradient(180deg, rgba(161,17,19,1) 0%, rgba(171,68,24,1) 100%);
     height: 145px;
     width: 635px;
-    padding: 0px 0px 0px 160px;
+    margin-left: 160px;
 }
 
 div.gameslice {
     background-image: url(GameOpinionsBG.png);
     height: 242px;
     width: 1440px;
-    margin-top: 435px;
+    margin-top: 380px;
 }
 
 div.gamesbox {
