@@ -79,11 +79,35 @@ div.webcomicbox {
     grid-auto-flow: column;
 }
 
+div.webcomicimg {
+    margin: 15px;
+}
+
+div.webcomictextbox {
+    height: 95px;
+    width: 405px;
+    margin: 15px 45px 15px 15px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.webcomicheader {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    line-height: 110%;
+    text-align: left;
+    text-transform: uppercase;
+    height: 30px;
+    width: 405px;
+    color: white;
+}
+
 div.gameslice {
     background-image: url(GameOpinionsBG.png);
     height: 242px;
     width: 1440px;
-    margin-top: 48px;
+    margin-top: 50px;
 }
 
 div.gamesbox {
