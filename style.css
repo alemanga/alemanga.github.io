@@ -23,6 +23,7 @@
     text-align: center;
     width: 450px;
     height: 200px;
+    margin: auto;
 }
 
 .blarneyIMG {
@@ -63,6 +64,7 @@
     background: rgb(106,30,77);
     background: linear-gradient(0deg, rgba(106,30,77,1) 0%, rgba(29,11,58,1) 100%);
     z-index: -1;
+    margin: auto;
 }
 
 .introHead {
@@ -94,6 +96,7 @@
 
 .gamesDiv {
     background-color: #9c0f3e;
+    margin: auto;
 }
 
 .gamesHead {
