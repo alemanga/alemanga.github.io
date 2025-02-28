@@ -13,6 +13,15 @@ div.headerbox {
     flex-direction: column;
 }
 
+div.introtextbox {
+    height: 375px;
+    width: 640px;
+    margin-left: 167px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
 .herotext {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
@@ -22,6 +31,7 @@ div.headerbox {
     text-transform: uppercase;
     height: 56px;
     width: 600px;
+    margin-left: 167px;
     color: white;
 }
 
@@ -49,7 +59,7 @@ div.gameslice {
     background-image: url(GameOpinionsBG.png);
     height: 242px;
     width: 1440px;
-    margin-top: 380px;
+    margin-top: 330px;
 }
 
 div.gamesbox {
