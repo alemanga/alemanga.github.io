@@ -31,7 +31,25 @@ div.introtextbox {
     text-transform: uppercase;
     height: 56px;
     width: 600px;
-    margin-left: 167px;
+    color: white;
+}
+
+.introheader {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    line-height: 170%;
+    height: 97px;
+    width: 506px;
+    color: white;
+}
+
+.introbody {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 110%;
+    text-align: left;
+    height: 135px;
+    width: 540px;
     color: white;
 }
 
@@ -59,7 +77,7 @@ div.gameslice {
     background-image: url(GameOpinionsBG.png);
     height: 242px;
     width: 1440px;
-    margin-top: 330px;
+    margin-top: 58px;
 }
 
 div.gamesbox {
