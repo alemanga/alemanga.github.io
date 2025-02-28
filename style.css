@@ -13,13 +13,14 @@ div.headerbox {
     flex-direction: column;
 }
 
-div.herotext {
+.herotext {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
     font-style: italic;
     line-height: 110%;
     text-align: left;
     text-transform: uppercase;
+    color: white;
 }
 
 div.introbox {
