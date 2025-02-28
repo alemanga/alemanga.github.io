@@ -125,11 +125,6 @@ div.webcomicinfo {
     color: white;
 }
 
-div.webtoonimg {
-    color: white;
-    filter: invert(1);
-}
-
 .button {
     background-color: rgb(29,11,58);
     border: none;
