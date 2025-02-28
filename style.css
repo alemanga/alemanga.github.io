@@ -7,6 +7,11 @@
     src: url(Jacquard24-Regular.woff2);
 }
 
+body {
+    background: rgb(255,231,123);
+    background: linear-gradient(180deg, rgba(255,231,123,1) 0%, rgba(191,47,15,1) 100%);
+}
+
 div.headerbox {
     background-color: rgb(29,11,58);
     position: sticky;
