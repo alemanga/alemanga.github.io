@@ -15,11 +15,13 @@
 
 .webcomicDiv {
     display: block;
+    position: absolute;
+    left: 20%;
     border: 5px outset #C05324;
     background: rgb(192,83,36);
     background: linear-gradient(0deg, rgba(192,83,36,1) 0%, rgba(161,17,20,1) 100%);
     text-align: center;
-    width: 40%;
+    width: 450px;
     height: 200px;
 }
 
