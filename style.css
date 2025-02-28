@@ -127,15 +127,17 @@ div.webcomicinfo {
 
 div.webtoonimg {
     color: white;
+    filter: invert(1);
 }
 
 .button {
     background-color: rgb(29,11,58);
     border: none;
     color: white;
-    padding: 10px;
+    padding: 0px 0px 0px 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
+    text-transform: uppercase;
     height: 38px;
     width: 108px;
     margin: 0px 0px 0px 10px;
