@@ -12,8 +12,9 @@ div.headerbox {
 }
 
 div.introbox {
-    background: rgb(29,11,58);
-    background: linear-gradient(180deg, rgba(29,11,58,1) 0%, rgba(106,30,77,1) 100%);
+    /* background: rgb(29,11,58);
+    background: linear-gradient(180deg, rgba(29,11,58,1) 0%, rgba(106,30,77,1) 100%); */
+    background-image: url(IntroBG.png);
     height: 675px;
     width: 1440px;
     margin: auto;
@@ -21,7 +22,8 @@ div.introbox {
 }
 
 div.gamesbox {
-    background-color: rgb(156,15,62);
+    /* background-color: rgb(156,15,62); */
+    background-image: url(GameOpinionsBG.png);
     height: 575px;
     width: 1440px;
     margin: auto;
