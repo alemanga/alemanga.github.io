@@ -320,5 +320,24 @@ div.footerbox {
     width: 1440px;
     margin: auto;
     display: grid;
-    flex-direction: column;
+    grid-auto-flow: column;
+}
+
+div.footerheader {
+    height: 30px;
+    width: 250px;
+    margin: auto;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.footertext {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 110%;
+    text-transform: lowercase;
+    height: 20px;
+    width: 200px;
+    margin: 0px 0px 0px 0px;
+    color: white;
 }
