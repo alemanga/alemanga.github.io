@@ -214,18 +214,20 @@ div.favgamesbox {
 div.favgamestext {
     height: 150px;
     width: 1000px;
+    margin: 50px 70px 0px 0px;
     display: grid;
     grid-auto-flow: column;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .favgamesbody {
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
+    text-align: left;
     line-height: 170%;
     height: 150px;
-    width: 480px;
+    width: 500px;
     margin: 0px 0px 0px 0px;
     color: white;
 }
