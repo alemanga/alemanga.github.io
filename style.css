@@ -86,7 +86,7 @@ div.webcomicimg {
 div.webcomictextbox {
     height: 95px;
     width: 405px;
-    margin: 15px 45px 15px 0px;
+    margin: 10px 45px 15px 0px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -116,10 +116,32 @@ div.webcomicinfo {
     font-size: 16px;
     line-height: 170%;
     text-align: left;
-    height: 55px;
+    height: 75px;
     width: 270px;
+    margin: 5px 0px 0px 0px;
     overflow: auto;
     color: white;
+}
+
+.button {
+    background-color: rgb(29,11,58);
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.webtoonbutton {
+    background-color: rgb(29,11,58); 
+    color: white;
+}
+
+.webtoonbutton:hover {
+    background-color: white; 
+    color: black; 
+    border: 2px solid rgb(29,11,58);
 }
 
 div.gameslice {
