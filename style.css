@@ -4,6 +4,7 @@
 
 div.headerbox {
     background-color: rgb(29,11,58);
+    position: sticky;
     height: 150px;
     width: 1440px;
     margin: auto;
@@ -22,8 +23,8 @@ div.introbox {
 }
 
 div.gamesbox {
-    /* background-color: rgb(156,15,62); */
-    background-image: url(GameOpinionsBG.png);
+    background-color: rgb(156,15,62);
+    /* background-image: url(GameOpinionsBG.png); */
     height: 575px;
     width: 1440px;
     margin: auto;
